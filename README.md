@@ -1,3 +1,3 @@
 # SoftUni
-HomeWork
-I will add my Fundamental codes here.
+Home Work                                            
+I will add my Fundamentals code here.
