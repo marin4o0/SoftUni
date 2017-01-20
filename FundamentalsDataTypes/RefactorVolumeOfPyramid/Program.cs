@@ -14,10 +14,10 @@ namespace RefactorVolumeOfPyramid
             var length = double.Parse(Console.ReadLine());
             Console.Write("Width: ");
             var width = double.Parse(Console.ReadLine());
-            Console.Write("Heigth: ");
-            var heigth = double.Parse(Console.ReadLine());
+            Console.Write("Height: ");
+            var height = double.Parse(Console.ReadLine());
             double volume = 0;
-            volume = ((length * width) * heigth) / 3;
+            volume = ((length * width) * height) / 3;
             Console.WriteLine("Pyramid Volume: {0:F2}", volume);
 
         }

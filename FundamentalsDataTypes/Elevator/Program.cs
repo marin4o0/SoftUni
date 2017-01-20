@@ -12,9 +12,8 @@ namespace Elevator
         {
             var n = int.Parse(Console.ReadLine());
             var p = int.Parse(Console.ReadLine());
-            double divide = (n / p);
-            double remainder = p - (n % p);
-            Console.WriteLine(divide + remainder);
+            var divide = (int) Math.Ceiling((double)n / p);
+            Console.WriteLine(divide);
         }
     }
 }
