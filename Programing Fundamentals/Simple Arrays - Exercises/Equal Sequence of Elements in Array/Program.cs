@@ -1,31 +1,32 @@
 ﻿using System;
 using System.Linq;
 
-public class Increasing_Sequence_of_Elements
+public class Equal_Sequence_of_Elements_in_Array
 {
     public static void Main()
     {
         var array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-        var increase = 0;
+        var savedNumber = array[0];
 
-        bool isIncrease = true;
+        bool isEqual = true;
 
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 1; i < array.Length; i++)
         {
-            if (increase < array[i])
+            if (array[i] == savedNumber)
             {
-                increase = array[i];
+                savedNumber = array[i];
+                isEqual = true;
             }
 
             else
             {
-                isIncrease = false;
+                isEqual = false;
                 break;
             }
         }
 
-        if (isIncrease == true)
+        if (isEqual == true)
         {
             Console.WriteLine("Yes");
         }
