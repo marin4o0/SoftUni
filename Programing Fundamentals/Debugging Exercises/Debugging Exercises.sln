@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickyStrings", "TrickyStrings\TrickyStrings.csproj", "{45F27313-16CE-427D-988F-35D1FEC5F5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Formations", "Triangle Formations\Triangle Formations.csproj", "{3231C562-883A-4817-BEBD-3130905D804E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{32287225-F3E6-444F-8CD0-EF05CA44ABC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mining Coins", "Mining Coins\Mining Coins.csproj", "{D96B01E5-6C7A-4129-8322-0FBB0307DE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F27313-16CE-427D-988F-35D1FEC5F5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F27313-16CE-427D-988F-35D1FEC5F5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F27313-16CE-427D-988F-35D1FEC5F5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F27313-16CE-427D-988F-35D1FEC5F5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3231C562-883A-4817-BEBD-3130905D804E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3231C562-883A-4817-BEBD-3130905D804E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3231C562-883A-4817-BEBD-3130905D804E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3231C562-883A-4817-BEBD-3130905D804E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32287225-F3E6-444F-8CD0-EF05CA44ABC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32287225-F3E6-444F-8CD0-EF05CA44ABC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32287225-F3E6-444F-8CD0-EF05CA44ABC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32287225-F3E6-444F-8CD0-EF05CA44ABC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96B01E5-6C7A-4129-8322-0FBB0307DE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96B01E5-6C7A-4129-8322-0FBB0307DE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96B01E5-6C7A-4129-8322-0FBB0307DE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96B01E5-6C7A-4129-8322-0FBB0307DE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

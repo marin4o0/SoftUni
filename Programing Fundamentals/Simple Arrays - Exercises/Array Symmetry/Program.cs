@@ -10,7 +10,7 @@ public class Array_Symmetry
 
         for (int i = 0; i < array.Length; i++)
         {
-            if (array[0] == array[array.Length - 1] && array[1] == array[array.Length - 2])
+            if (array[0] == array[array.Length - 1] && array[1] == array[array.Length - 2] && array[2] == array[array.Length - 3])
             {
                 isSymmetry = true;
             }
