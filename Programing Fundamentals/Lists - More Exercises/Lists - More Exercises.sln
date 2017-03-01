@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct List", "Distinct List\Distinct List.csproj", "{FBC89989-0755-42C7-A6BA-4F3459E7871A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer Insertion", "Integer Insertion\Integer Insertion.csproj", "{05D02F0C-A706-4CCA-BA38-8A357506AAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camel's Back", "Camel's Back\Camel's Back.csproj", "{67588AEF-0637-4D4B-AA63-93BE256D6E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ununion Lists", "Ununion Lists\Ununion Lists.csproj", "{6D5F70CB-493D-4481-AC54-7C3EA0D68D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC89989-0755-42C7-A6BA-4F3459E7871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC89989-0755-42C7-A6BA-4F3459E7871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC89989-0755-42C7-A6BA-4F3459E7871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC89989-0755-42C7-A6BA-4F3459E7871A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D02F0C-A706-4CCA-BA38-8A357506AAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D02F0C-A706-4CCA-BA38-8A357506AAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D02F0C-A706-4CCA-BA38-8A357506AAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D02F0C-A706-4CCA-BA38-8A357506AAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67588AEF-0637-4D4B-AA63-93BE256D6E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67588AEF-0637-4D4B-AA63-93BE256D6E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67588AEF-0637-4D4B-AA63-93BE256D6E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67588AEF-0637-4D4B-AA63-93BE256D6E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5F70CB-493D-4481-AC54-7C3EA0D68D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5F70CB-493D-4481-AC54-7C3EA0D68D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5F70CB-493D-4481-AC54-7C3EA0D68D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5F70CB-493D-4481-AC54-7C3EA0D68D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
